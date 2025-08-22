@@ -1,0 +1,108 @@
+NAICS,Industry,Third_Quarter_Payroll_Thousands,Total_Businesses,Size_0_4,Size_5_9,Size_10_19,Size_20_49,Size_50_99,Size_100_249,Size_250_499,Size_500_999,Size_1000_Plus
+"","Total All Industries",399433657,1871800,1408729,177893,130359,94555,34650,18313,4445,1698,1158
+"11","Agriculture, Forestry, Fishing and Hunting",5250451,16451,8602,2506,1989,1727,727,552,219,79,50
+"111","Crop Production",2054294,8757,4890,1441,1058,772,286,203,69,24,14
+"112","Animal Production and Aquaculture",377513,2439,1347,365,321,311,(2),(2),4,,
+"113","Forestry and Logging",53224,307,161,69,41,27,(2),(1),,,
+"114","Fishing, Hunting and Trapping",6531,240,210,23,7,,,,,,
+"115","Support Activities for Agriculture and Forestry",2758888,4708,1994,608,562,617,366,324,146,55,36
+"21","Mining, Quarrying, and Oil and Gas Extraction",492549,796,388,116,115,105,42,20,6,4,
+"211","Oil and Gas Extraction",148026,125,66,17,13,15,7,(2),(1),(1),
+"212","Mining (except Oil and Gas)",159239,285,119,52,47,40,16,(2),(1),(1),
+"213","Support Activities for Mining",185283,386,203,47,55,50,19,8,(2),(1),
+"22","Utilities",2644451,1960,1089,279,221,168,87,74,19,(2),(1)
+"23","Construction",20515061,94500,60662,15155,9330,6065,2015,989,197,70,17
+"236","Construction of Buildings",4727183,32756,23404,4720,2562,1438,418,171,33,(2),(1)
+"237","Heavy and Civil Engineering Construction",2925317,3936,1794,596,530,529,265,164,45,(2),(1)
+"238","Specialty Trade Contractors",12862562,57808,35464,9839,6238,4098,1332,654,119,50,14
+"31 - 33","Manufacturing",35952733,45019,20809,7441,6296,5642,2403,1684,482,(2),(2)
+"311","Food Manufacturing",2704891,5097,2077,808,812,735,269,261,88,36,11
+"312","Beverage and Tobacco Product Manufacturing",1189131,3239,1360,604,544,441,173,83,26,5,3
+"313","Textile Mills",68534,287,161,37,38,31,10,(2),(1),(1),
+"314","Textile Product Mills",103634,598,319,121,79,56,12,8,3,,
+"315","Apparel Manufacturing",373501,1870,1124,274,216,159,58,32,(2),(1),(1)
+"316","Leather and Allied Product Manufacturing",58285,176,110,26,19,13,4,(1),(1),(1),
+"321","Wood Product Manufacturing",402066,1141,497,183,182,160,55,54,(2),(1),
+"322","Paper Manufacturing",411600,464,138,62,61,75,56,67,5,,
+"323","Printing and Related Support Activities",479567,3035,1850,543,291,233,79,33,(2),(1),
+"324","Petroleum and Coal Products Manufacturing",419271,222,93,36,29,26,15,10,8,(2),(1)
+"325","Chemical Manufacturing",2324776,2588,1168,393,362,347,173,92,36,(2),(1)
+"326","Plastics and Rubber Products Manufacturing",747737,1294,442,195,212,224,120,81,16,(2),(1)
+"327","Nonmetallic Mineral Product Manufacturing",618870,1300,468,228,224,229,91,45,(2),(1),
+"331","Primary Metal Manufacturing",264873,482,215,62,65,70,30,35,(2),(1),
+"332","Fabricated Metal Product Manufacturing",2176967,6469,2775,1226,1056,886,318,162,40,6,
+"333","Machinery Manufacturing",2025515,3072,1411,530,460,390,164,82,24,6,5
+"334","Computer and Electronic Product Manufacturing",13567597,4375,1861,591,537,590,339,299,85,39,34
+"335","Electrical Equipment, Appliance, and Component Manufacturing",856315,1282,600,188,165,172,80,57,(2),(1),(1)
+"336","Transportation Equipment Manufacturing",4600049,2077,832,306,268,258,165,141,55,30,22
+"337","Furniture and Related Product Manufacturing",449140,1971,1053,376,244,194,53,41,(2),(1),
+"339","Miscellaneous Manufacturing",2110415,3980,2255,652,432,353,139,91,33,16,9
+"42","Wholesale Trade",16694644,63142,39637,9965,6648,4538,1494,638,164,47,11
+"423","Merchant Wholesalers, Durable Goods",9710497,32247,19219,5440,3839,2529,813,311,69,20,7
+"424","Merchant Wholesalers, Nondurable Goods",5973646,22888,14182,3601,2318,1728,629,309,90,27,4
+"425","Wholesale Trade Agents and Brokers",1010501,8007,6236,924,491,281,52,18,5,,
+"44 - 45","Retail Trade",18828496,106998,51811,22291,16779,9079,4173,2377,439,39,10
+"441","Motor Vehicle and Parts Dealers",3591629,11008,4873,2079,1937,1051,684,362,18,4,
+"444","Building Material and Garden Equipment and Supplies Dealers",1567452,6521,2831,1425,1092,639,156,356,(2),(1),
+"445","Food and Beverage Retailers",3942214,18997,9089,3673,1976,1579,1705,955,16,(2),(1)
+"449","Furniture, Home Furnishings, Electronics, and Appliance Retailers",1334446,9633,5640,1859,1288,492,266,68,17,3,
+"455","General Merchandise Retailers",2978325,6111,2310,545,1167,692,584,445,346,19,3
+"456","Health and Personal Care Retailers",1536671,12370,5845,2788,2369,1222,95,42,6,3,
+"457","Gasoline Stations and Fuel Dealers",663629,7646,2109,3156,1908,393,63,17,,,
+"458","Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",1579927,14752,7106,3312,2415,1440,387,79,6,3,4
+"459","Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",1634202,19960,12008,3454,2627,1571,233,53,(2),(1),(1)
+"48 - 49","Transportation and Warehousing",14086663,40097,27598,4392,3281,2545,1212,662,183,125,99
+"481","Air Transportation",1693442,615,305,70,73,75,36,24,13,10,9
+"482","Rail Transportation",533,11,(2),,(1),,,,,,
+"483","Water Transportation",138251,165,95,21,16,16,7,6,(1),(1),
+"484","Truck Transportation",2513284,23477,18722,1921,1304,967,365,156,28,10,4
+"485","Transit and Ground Passenger Transportation",1395653,2351,1393,292,250,218,106,64,16,(2),(2)
+"486","Pipeline Transportation",51414,116,(2),15,23,26,3,(1),,,
+"487","Scenic and Sightseeing Transportation",48102,405,226,69,61,30,12,7,,,
+"488","Support Activities for Transportation",2283726,7334,4412,1185,789,597,201,104,25,(2),(1)
+"491","Postal Service",10253,156,105,30,(2),6,,(1),,,
+"492","Couriers and Messengers",2181316,2763,1291,334,361,264,288,138,39,24,24
+"493","Warehousing and Storage",3770689,2704,992,455,389,346,194,160,(2),54,(1)
+"51","Information",36377317,31277,23260,2894,2071,1610,728,424,145,79,66
+"512","Motion Picture and Sound Recording Industries",3760225,12075,10439,568,369,388,193,71,22,8,17
+"513","Publishing Industries",9146922,8276,5753,1017,634,491,188,132,27,20,14
+"516","Broadcasting and Content Providers",8862827,2544,1653,243,241,187,106,71,21,12,10
+"517","Telecommunications",1798427,2853,1438,489,463,271,110,51,18,8,5
+"518","Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",5763431,4630,3401,497,304,228,101,56,25,(2),(2)
+"519","Web Search Portals, Libraries, Archives, and Other Information Services",7045486,899,576,80,60,45,30,43,32,(1),(2)
+"52","Finance and Insurance",18723671,52229,35571,8348,4671,2190,760,480,125,49,35
+"521","Monetary Authorities-Central Bank",66790,34,22,(1),3,4,(1),,(1),,(1)
+"522","Credit Intermediation and Related Activities",6266430,16361,8098,4286,2642,799,279,180,49,15,13
+"523","Securities, Commodity Contracts, and Other Financial Investments and Related Activities",6933999,16743,13442,(2),871,603,(2),103,(2),7,(2)
+"524","Insurance Carriers and Related Activities",5286740,18151,13232,2461,1111,762,293,192,56,27,17
+"525","Funds, Trusts, and Other Financial Vehicles",169712,940,777,81,44,22,11,5,,,
+"53","Real Estate and Rental and Leasing",6195026,66166,53347,6989,3268,1796,490,220,42,(2),(1)
+"531","Real Estate",4955543,59627,49839,5644,2372,1219,344,164,34,(2),(1)
+"532","Rental and Leasing Services",1153909,6162,3243,1285,863,(2),(2),53,8,3,
+"533","Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)",85574,377,265,60,33,(2),(1),3,,,
+"","Services",163741282,1312286,1074268,92555,70365,50041,14563,7582,1754,675,483
+"541","Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+"551","Management of Companies and Enterprises",12561802,4792,1947,651,608,692,356,344,112,47,35
+"56","Administrative and Support and Waste Management and Remediation Services",16643115,58992,36871,8388,5493,4439,1839,1313,402,164,83
+"561","Administrative and Support Services",15354690,55926,35410,7904,5051,4052,1663,1221,382,(2),(2)
+"562","Waste Management and Remediation Services",1288425,3066,1461,484,442,387,176,92,20,(2),(1)
+"611","Educational Services",6182785,19859,11427,3012,2396,1899,644,332,96,33,20
+"62","Health Care and Social Assistance",44875881,807555,747744,26535,16684,9928,3522,2213,518,193,218
+"621","Ambulatory Health Care Services",21764454,101412,62452,19335,11103,5625,1675,851,233,79,59
+"622","Hospitals",11079100,892,290,42,70,71,42,74,97,72,134
+"623","Nursing and Residential Care Facilities",4225357,10867,3528,2133,1904,1350,927,925,91,(2),(1)
+"624","Social Assistance",7806970,694384,681474,5025,3607,2882,878,363,97,(2),(2)
+"71","Arts, Entertainment, and Recreation",5179285,35528,27223,2774,2323,1990,751,332,80,29,26
+"711","Performing Arts, Spectator Sports, and Related Industries",2842083,25099,22953,1013,515,354,140,65,34,14,11
+"712","Museums, Historical Sites, and Similar Institutions",315425,848,434,151,107,73,42,24,11,3,3
+"713","Amusement, Gambling, and Recreation Industries",2021777,9581,3836,1610,1701,1563,569,243,35,12,12
+"72","Accommodation and Food Services",14982903,94208,26651,17704,23774,20203,4293,1359,157,56,11
+"721","Accommodation",2769468,7475,2655,1062,1404,1483,420,305,102,38,6
+"722","Food Services and Drinking Places",12213435,86733,23996,16642,22370,18720,3873,1054,55,18,5
+"81","Other Services (except Public Administration)",7807357,106451,78534,15157,7957,3577,745,398,51,25,7
+"811","Repair and Maintenance",2435565,26263,16823,5099,2897,1194,177,63,(2),(1),
+"812","Personal and Laundry Services",1935928,32574,21789,6367,2956,1099,221,118,(2),7,(2)
+"813","Religious, Grantmaking, Civic, Professional, and Similar Organizations",2984103,19805,13107,2922,1930,1241,343,213,30,(2),(1)
+"814","Private Households",451760,27809,26815,769,174,43,4,4,,,
+"92","Public Administration",59877342,37275,8196,4914,5289,9032,5947,2608,670,334,285
+"999","Unclassified",53972,3598,3485,48,36,17,9,3,,,

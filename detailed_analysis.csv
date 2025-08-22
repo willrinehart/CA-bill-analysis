@@ -1,0 +1,26 @@
+NAICS_ca_original,Industry,Num_Business_Types,Combined_Business_Types,Regulation Type,Total_Businesses
+22,Utilities,2,Electric utilities | Water utilities,Deployer,1960
+325,Chemical Manufacturing,1,Pharmaceutical companies using AI,Deployer,2588
+334,Computer and Electronic Product Manufacturing,1,Voting system manufacturers,Developer,4375
+44 - 45,Retail Trade,1,Retail stores using AI,Deployer,106998
+485,Transit and Ground Passenger Transportation,3,"Gig economy platforms (Uber, DoorDash) | Public transit agencies | Ride-sharing companies",Both | Deployer,2351
+492,Couriers and Messengers,1,Delivery companies,Both,2763
+517,Telecommunications,2,Internet service providers | Telecommunications companies,Deployer,2853
+518,"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",1,Social media platforms,Both,4630
+522,Credit Intermediation and Related Activities,6,Banks using AI | Credit unions using AI | Lending platforms | Mortgage companies | Mortgage lenders | Payment processors with fraud detection,Both | Deployer | Developer,16361
+523,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",1,Robo-advisors,Both,16743
+524,Insurance Carriers and Related Activities,6,Auto insurance companies | Health insurance companies | Insurance companies using AI | Insurance comparison platforms | Life insurance companies | Property insurance companies,Both | Deployer,18151
+531,Real Estate,2,Property management companies | Real estate companies,Deployer,59627
+541,"Professional, Scientific, and Technical Services",34,Adaptive learning platforms | Applicant Tracking System (ATS) providers | Arbitration organizations | Automated benefits calculation software | Case management systems with AI | Contract analysis software | EHR providers with AI | Election information platforms | Fraud detection systems for benefits | Government software providers | HR software companies | Health insurance software providers | InsureTech companies | Law firms using AI | Learning management systems with AI | Legal practice management software | Legal research platforms with AI | Mediation services | Medical AI companies | Mental health apps with AI | Online dispute resolution platforms | Online proctoring services | Performance management platforms | Plagiarism detection software | Political consulting firms | Property management software | Real estate appraisal software | Redistricting software companies | Rental screening platforms | Risk assessment software providers | Scheduling software providers | Student information systems | Telemedicine platforms with AI | Voter registration software providers,Deployer | Developer,184901
+551,Management of Companies and Enterprises,1,Large corporations using AI for hiring,Deployer,4792
+561,Administrative and Support Services,5,Call centers using AI monitoring | Credit scoring companies | Electronic monitoring companies | Short-term rental platforms (Airbnb) | Staffing agencies using automated screening,Both | Deployer | Developer,55926
+562,Waste Management and Remediation Services,1,Municipal waste services,Deployer,3066
+611,Educational Services,3,K-12 school districts using AI | Universities and colleges using AI | Vocational training schools,Deployer,19859
+621,Ambulatory Health Care Services,3,Family planning organizations | Fertility clinics | Telehealth companies,Both | Deployer,101412
+622,Hospitals,1,Hospitals using AI,Deployer,892
+624,Social Assistance,1,Adoption agencies,Deployer,694384
+711,"Performing Arts, Spectator Sports, and Related Industries",1,Entertainment venues using AI,Deployer,25099
+721,Accommodation,1,Hotels using AI,Deployer,7475
+722,Food Services and Drinking Places,1,Restaurants using AI,Deployer,86733
+813,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",2,Legal aid organizations | Professional certification bodies,Deployer,19805
+92,Public Administration,11,Child protective services | County election offices | Courts using AI | District attorneys' offices | Immigration services | Probation departments | Public housing authorities | Secretary of State offices | Social services departments | Tax agencies | Unemployment offices,Deployer,37275

@@ -1,0 +1,93 @@
+Business Type,NAICS_6digit,NAICS Description,Regulation Type,NAICS_3digit,NAICS_ca_original,Industry,Third_Quarter_Payroll_Thousands,Total_Businesses,Size_0_4,Size_5_9,Size_10_19,Size_20_49,Size_50_99,Size_100_249,Size_250_499,Size_500_999,Size_1000_Plus
+Applicant Tracking System (ATS) providers,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+HR software companies,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Performance management platforms,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Scheduling software providers,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Large corporations using AI for hiring,551114,"Corporate, Subsidiary, and Regional Managing Offices",Deployer,551,551,Management of Companies and Enterprises,12561802,4792,1947,651,608,692,356,344,112,47,35
+Staffing agencies using automated screening,561311,Employment Placement Agencies,Deployer,561,561,Administrative and Support Services,15354690,55926,35410,7904,5051,4052,1663,1221,382,-2,-2
+"Gig economy platforms (Uber, DoorDash)",485999,All Other Transit and Ground Passenger Transportation,Both,485,485,Transit and Ground Passenger Transportation,1395653,2351,1393,292,250,218,106,64,16,-2,-2
+Call centers using AI monitoring,561422,Telemarketing Bureaus and Other Contact Centers,Deployer,561,561,Administrative and Support Services,15354690,55926,35410,7904,5051,4052,1663,1221,382,-2,-2
+Online proctoring services,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Plagiarism detection software,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Learning management systems with AI,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Adaptive learning platforms,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Student information systems,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Universities and colleges using AI,611310,"Colleges, Universities, and Professional Schools",Deployer,611,611,Educational Services,6182785,19859,11427,3012,2396,1899,644,332,96,33,20
+K-12 school districts using AI,611110,Elementary and Secondary Schools,Deployer,611,611,Educational Services,6182785,19859,11427,3012,2396,1899,644,332,96,33,20
+Vocational training schools,611519,Other Technical and Trade Schools,Deployer,611,611,Educational Services,6182785,19859,11427,3012,2396,1899,644,332,96,33,20
+Professional certification bodies,813920,Professional Organizations,Deployer,813,813,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",2984103,19805,13107,2922,1930,1241,343,213,30,-2,-1
+Rental screening platforms,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Property management software,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Short-term rental platforms (Airbnb),561599,All Other Travel Arrangement and Reservation Services,Both,561,561,Administrative and Support Services,15354690,55926,35410,7904,5051,4052,1663,1221,382,-2,-2
+Real estate appraisal software,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Property management companies,531311,Residential Property Managers,Deployer,531,531,Real Estate,4955543,59627,49839,5644,2372,1219,344,164,34,-2,-1
+Real estate companies,531210,Offices of Real Estate Agents and Brokers,Deployer,531,531,Real Estate,4955543,59627,49839,5644,2372,1219,344,164,34,-2,-1
+Public housing authorities,925110,Administration of Housing Programs,Deployer,925,92,Public Administration,59877342,37275,8196,4914,5289,9032,5947,2608,670,334,285
+Mortgage lenders,522292,Real Estate Credit,Deployer,522,522,Credit Intermediation and Related Activities,6266430,16361,8098,4286,2642,799,279,180,49,15,13
+Electric utilities,221122,Electric Power Distribution,Deployer,221,22,Utilities,2644451,1960,1089,279,221,168,87,74,19,-2,-1
+Water utilities,221310,Water Supply and Irrigation Systems,Deployer,221,22,Utilities,2644451,1960,1089,279,221,168,87,74,19,-2,-1
+Municipal waste services,562111,Solid Waste Collection,Deployer,562,562,Waste Management and Remediation Services,1288425,3066,1461,484,442,387,176,92,20,-2,-1
+Public transit agencies,485111,Mixed Mode Transit Systems,Deployer,485,485,Transit and Ground Passenger Transportation,1395653,2351,1393,292,250,218,106,64,16,-2,-2
+Ride-sharing companies,485999,All Other Transit and Ground Passenger Transportation,Both,485,485,Transit and Ground Passenger Transportation,1395653,2351,1393,292,250,218,106,64,16,-2,-2
+Delivery companies,492110,Couriers and Express Delivery Services,Both,492,492,Couriers and Messengers,2181316,2763,1291,334,361,264,288,138,39,24,24
+EHR providers with AI,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Medical AI companies,541715,"Research and Development in the Physical, Engineering, and Life Sciences",Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Telemedicine platforms with AI,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Health insurance software providers,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Mental health apps with AI,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Hospitals using AI,622110,General Medical and Surgical Hospitals,Deployer,622,622,Hospitals,11079100,892,290,42,70,71,42,74,97,72,134
+Health insurance companies,524114,Direct Health and Medical Insurance Carriers,Deployer,524,524,Insurance Carriers and Related Activities,5286740,18151,13232,2461,1111,762,293,192,56,27,17
+Telehealth companies,621610,Home Health Care Services,Both,621,621,Ambulatory Health Care Services,21764454,101412,62452,19335,11103,5625,1675,851,233,79,59
+Pharmaceutical companies using AI,325412,Pharmaceutical Preparation Manufacturing,Deployer,325,325,Chemical Manufacturing,2324776,2588,1168,393,362,347,173,92,36,-2,-1
+Credit scoring companies,561450,Credit Bureaus,Developer,561,561,Administrative and Support Services,15354690,55926,35410,7904,5051,4052,1663,1221,382,-2,-2
+Lending platforms,522220,Sales Financing,Both,522,522,Credit Intermediation and Related Activities,6266430,16361,8098,4286,2642,799,279,180,49,15,13
+Payment processors with fraud detection,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",Developer,522,522,Credit Intermediation and Related Activities,6266430,16361,8098,4286,2642,799,279,180,49,15,13
+Robo-advisors,523930,Investment Advice,Both,523,523,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",6933999,16743,13442,-2,871,603,-2,103,-2,7,-2
+InsureTech companies,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Banks using AI,522110,Commercial Banking,Deployer,522,522,Credit Intermediation and Related Activities,6266430,16361,8098,4286,2642,799,279,180,49,15,13
+Credit unions using AI,522130,Credit Unions,Deployer,522,522,Credit Intermediation and Related Activities,6266430,16361,8098,4286,2642,799,279,180,49,15,13
+Insurance companies using AI,524126,Direct Property and Casualty Insurance Carriers,Deployer,524,524,Insurance Carriers and Related Activities,5286740,18151,13232,2461,1111,762,293,192,56,27,17
+Mortgage companies,522292,Real Estate Credit,Deployer,522,522,Credit Intermediation and Related Activities,6266430,16361,8098,4286,2642,799,279,180,49,15,13
+Risk assessment software providers,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Case management systems with AI,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Electronic monitoring companies,561612,Security Guards and Patrol Services,Developer,561,561,Administrative and Support Services,15354690,55926,35410,7904,5051,4052,1663,1221,382,-2,-2
+Courts using AI,922130,Administration of Justice,Deployer,922,92,Public Administration,59877342,37275,8196,4914,5289,9032,5947,2608,670,334,285
+Probation departments,922140,Correctional Institutions,Deployer,922,92,Public Administration,59877342,37275,8196,4914,5289,9032,5947,2608,670,334,285
+District attorneys' offices,922120,Police Protection,Deployer,922,92,Public Administration,59877342,37275,8196,4914,5289,9032,5947,2608,670,334,285
+Legal research platforms with AI,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Contract analysis software,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Online dispute resolution platforms,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Legal practice management software,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Law firms using AI,541110,Offices of Lawyers,Deployer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Arbitration organizations,541110,Offices of Lawyers,Deployer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Mediation services,541110,Offices of Lawyers,Deployer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Legal aid organizations,813311,Human Rights Organizations,Deployer,813,813,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",2984103,19805,13107,2922,1930,1241,343,213,30,-2,-1
+Government software providers,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Fraud detection systems for benefits,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Automated benefits calculation software,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Social services departments,923130,Administration of Human Resource Programs,Deployer,923,92,Public Administration,59877342,37275,8196,4914,5289,9032,5947,2608,670,334,285
+Tax agencies,921130,Public Finance Activities,Deployer,921,92,Public Administration,59877342,37275,8196,4914,5289,9032,5947,2608,670,334,285
+Immigration services,928120,International Affairs,Deployer,928,92,Public Administration,59877342,37275,8196,4914,5289,9032,5947,2608,670,334,285
+Unemployment offices,923130,Administration of Human Resource Programs,Deployer,923,92,Public Administration,59877342,37275,8196,4914,5289,9032,5947,2608,670,334,285
+Voting system manufacturers,334118,Computer Terminal and Other Computer Peripheral Equipment Manufacturing,Developer,334,334,Computer and Electronic Product Manufacturing,13567597,4375,1861,591,537,590,339,299,85,39,34
+Voter registration software providers,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Redistricting software companies,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Election information platforms,541511,Custom Computer Programming Services,Developer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Secretary of State offices,921140,Executive and Legislative Offices,Deployer,921,92,Public Administration,59877342,37275,8196,4914,5289,9032,5947,2608,670,334,285
+County election offices,921140,Executive and Legislative Offices,Deployer,921,92,Public Administration,59877342,37275,8196,4914,5289,9032,5947,2608,670,334,285
+Political consulting firms,541820,Public Relations Agencies,Deployer,541,541,"Professional, Scientific, and Technical Services",55508154,184901,143871,18334,11130,7313,2413,1291,338,128,83
+Internet service providers,517311,Wired Telecommunications Carriers,Deployer,517,517,Telecommunications,1798427,2853,1438,489,463,271,110,51,18,8,5
+Telecommunications companies,517110,Wired Telecommunications Carriers,Deployer,517,517,Telecommunications,1798427,2853,1438,489,463,271,110,51,18,8,5
+Social media platforms,518210,"Data Processing, Hosting, and Related Services",Both,518,518,"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",5763431,4630,3401,497,304,228,101,56,25,-2,-2
+Auto insurance companies,524126,Direct Property and Casualty Insurance Carriers,Deployer,524,524,Insurance Carriers and Related Activities,5286740,18151,13232,2461,1111,762,293,192,56,27,17
+Property insurance companies,524126,Direct Property and Casualty Insurance Carriers,Deployer,524,524,Insurance Carriers and Related Activities,5286740,18151,13232,2461,1111,762,293,192,56,27,17
+Life insurance companies,524113,Direct Life Insurance Carriers,Deployer,524,524,Insurance Carriers and Related Activities,5286740,18151,13232,2461,1111,762,293,192,56,27,17
+Insurance comparison platforms,524210,Insurance Agencies and Brokerages,Both,524,524,Insurance Carriers and Related Activities,5286740,18151,13232,2461,1111,762,293,192,56,27,17
+Hotels using AI,721110,Hotels (except Casino Hotels) and Motels,Deployer,721,721,Accommodation,2769468,7475,2655,1062,1404,1483,420,305,102,38,6
+Restaurants using AI,722513,Limited-Service Restaurants,Deployer,722,722,Food Services and Drinking Places,12213435,86733,23996,16642,22370,18720,3873,1054,55,18,5
+Entertainment venues using AI,711310,"Promoters of Performing Arts, Sports, and Similar Events",Deployer,711,711,"Performing Arts, Spectator Sports, and Related Industries",2842083,25099,22953,1013,515,354,140,65,34,14,11
+Retail stores using AI,452111,Department Stores,Deployer,452,44 - 45,Retail Trade,18828496,106998,51811,22291,16779,9079,4173,2377,439,39,10
+Adoption agencies,624190,Other Individual and Family Services,Deployer,624,624,Social Assistance,7806970,694384,681474,5025,3607,2882,878,363,97,-2,-2
+Fertility clinics,621111,Offices of Physicians,Deployer,621,621,Ambulatory Health Care Services,21764454,101412,62452,19335,11103,5625,1675,851,233,79,59
+Child protective services,923130,Administration of Human Resource Programs,Deployer,923,92,Public Administration,59877342,37275,8196,4914,5289,9032,5947,2608,670,334,285
+Family planning organizations,621410,Family Planning Centers,Deployer,621,621,Ambulatory Health Care Services,21764454,101412,62452,19335,11103,5625,1675,851,233,79,59
